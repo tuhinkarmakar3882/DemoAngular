@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 80px);
+}
+
+.container p {
+  margin: 20px;
+  font-size: 28px;
+}
+
+button {
+  padding: 16px 28px;
+}

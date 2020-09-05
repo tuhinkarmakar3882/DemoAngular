@@ -11,15 +11,12 @@ export class LikeButtonComponentComponent implements OnInit {
 
   onClickMe(): void {
     this.counter++;
-    console.log(this.counter);
   }
 
   constructor() {
   }
 
-
   ngOnInit(): void {
   }
-
 
 }
